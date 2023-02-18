@@ -1,0 +1,7 @@
+History of java
+
+Data types
+byte
+short
+int
+long
