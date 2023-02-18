@@ -9,3 +9,10 @@ long
 
 boolean
 String
+
+
+Loops
+For 
+For each
+While
+Do while
